@@ -4,7 +4,7 @@
 
 
 
-# <div align="center">Soy Oscar, un Frontend-developer que ha elaborado multiples proyectos para poner en practica mis conocimientos de varias tecnologias 👨‍💻 </div>
+# <div align="center">Soy Oscar, un Frontend-developer con habilidades de diseño de interfaces web y con buenas bases de programacion 👨‍💻 </div>
 💻 Estoy buscando trabajar en grandes proyectos <br>🌱 sigo en constante aprendisaje y mejora<br>⚡ buenas habilidades para mejoras y diseños de interfaces web<br>🤝Dispuesto a trabajar en equipo <br>
 
 
