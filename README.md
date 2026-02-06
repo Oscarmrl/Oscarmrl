@@ -4,7 +4,7 @@
 
 
 
-# <div align="center">Soy Oscar, un Frontend-developer con habilidades de diseño de interfaces web y con buenas bases de programacion 👨‍💻 </div>
+# <div align="center">Full-stack developer especializado en la creación de aplicaciones web completas, combinando diseño de interfaces atractivas con sólidos fundamentos de programación y desarrollo backend👨‍💻 </div>
 💻 Estoy buscando trabajar en grandes proyectos <br>🌱 sigo en constante aprendisaje y mejora<br>⚡ buenas habilidades para mejoras y diseños de interfaces web<br>🤝Dispuesto a trabajar en equipo <br>
 
 
