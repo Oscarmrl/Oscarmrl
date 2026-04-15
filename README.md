@@ -71,3 +71,7 @@
 ## 📅 Actividad
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Oscarmrl&theme=react-dark&hide_border=true)
+
+## 📅 Contribuciones
+
+[![](https://ghchart.rshah.org/Oscarmrl)](https://github.com/Oscarmrl)
