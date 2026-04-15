@@ -1,39 +1,88 @@
 <div align="center">
-<img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=906&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" align="center" style="width: 100%" />
-</div>  
-
-
-
-# <div align="center">Full-stack developer especializado en la creación de aplicaciones web completas, combinando diseño de interfaces atractivas con sólidos fundamentos de programación y desarrollo backend👨‍💻 </div>
-💻 Estoy buscando trabajar en grandes proyectos <br>🌱 sigo en constante aprendisaje y mejora<br>⚡ buenas habilidades para mejoras y diseños de interfaces web<br>🤝Dispuesto a trabajar en equipo <br>
-
-
-# 💻 Tecnologias Utilizadas:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=906&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 100%" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Oscarmrl&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Oscarmrl&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscarmrl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-### 🔝 Top Contributed Repo
+<div align="center">
+  <h1>Oscar Morales</h1>
+  <h3>Full-Stack Developer · UI/UX Enthusiast · Builder</h3>
+  <p>Construyo aplicaciones web completas: desde interfaces rápidas y atractivas hasta arquitecturas backend sólidas y escalables. Me especializo en convertir ideas en productos reales.</p>
+</div>
+
+---
+
+## 🧑‍💻 Sobre mí
+
+- 🚀 Trabajo en proyectos personales de principio a fin, desde el diseño hasta el despliegue
+- 🔧 Experiencia con stacks modernos: **Next.js + Supabase + Prisma**
+- 🤖 Automatizo flujos con **n8n** para crear herramientas más inteligentes
+- 🎯 Enfocado en rendimiento, buenas prácticas y código mantenible
+- 🤝 Abierto a colaborar en proyectos ambiciosos y equipos con iniciativa
+
+---
+
+## 💻 Stack Tecnológico
+
+**Frontend**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" title="JavaScript"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" title="TypeScript"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" title="React"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="Next.js" title="Next.js"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5" title="HTML5"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3" title="CSS3"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="36" alt="Tailwind CSS" title="Tailwind CSS"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="36" alt="Sass" title="Sass"/>
+</div>
+
+<br/>
+
+**Backend & Base de datos**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" title="Node.js"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="36" alt="Supabase" title="Supabase"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="36" alt="Prisma" title="Prisma"/>
+</div>
+
+<br/>
+
+**Automatización & Herramientas**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Oscarmrl&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oscarmrl&theme=dark&hide_border=true" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscarmrl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150"/>
+</div>
+
+---
+
+### 🔝 Top Repositorios Contribuidos
+
 ![](https://github-contributor-stats.vercel.app/api?username=Oscarmrl&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Oscarmrl&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Oscarmrl&icon=6&color=6" />
+</div>
