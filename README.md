@@ -67,3 +67,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Oscarmrl&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Oscarmrl&theme=dark&hide_border=true)<br/>
+
+## 📅 Actividad
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Oscarmrl&theme=react-dark&hide_border=true)
