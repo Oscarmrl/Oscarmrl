@@ -64,25 +64,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oscarmrl&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oscarmrl&theme=dark&hide_border=true" height="160"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscarmrl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150"/>
-</div>
-
----
-
-### 🔝 Top Repositorios Contribuidos
-
-![](https://github-contributor-stats.vercel.app/api?username=Oscarmrl&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Oscarmrl&icon=6&color=6" />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Oscarmrl&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Oscarmrl&theme=dark&hide_border=true)<br/>
