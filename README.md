@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <h1>Oscar Morales</h1>
+  <h1>Oscar Murillo</h1>
   <h3>Full-Stack Developer · UI/UX Enthusiast · Builder</h3>
   <p>Construyo aplicaciones web completas: desde interfaces rápidas y atractivas hasta arquitecturas backend sólidas y escalables. Me especializo en convertir ideas en productos reales.</p>
 </div>
